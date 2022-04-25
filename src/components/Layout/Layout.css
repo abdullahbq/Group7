@@ -1,0 +1,103 @@
+body{
+    background: antiquewhite;
+}
+
+.location{
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+    
+}
+.location iframe{
+    width: 100%;
+}
+.alb{
+    padding: 80px 0;
+    
+    margin: auto;
+}
+.ab{
+   
+    background: rgb(240, 239, 178);
+    font-family:'Candara'
+   
+}
+.card:hover{
+    background: pink;
+}
+.det:hover{
+    padding: 10px;
+    background: initial;
+}
+.car:hover{
+    padding: 5px;
+    background: rgb(240, 198, 140);
+    box-shadow: gold;
+}
+.for{
+    padding: 50px;
+}
+.te{
+    text-align: center;
+    color: rebeccapurple;
+}
+.log{
+    width: 60px;
+    height: 60px;
+
+}
+.cont{
+    width: 100%;
+    padding: 0%;
+}
+.ima{
+    width: 100%;
+    opacity: 0.1;
+    position: fixed;
+}
+.contain{
+    background: rgb(127, 80, 172);
+}
+.image{
+    width: 100%;
+    height: 50%;
+    
+    position: -webkit-sticky;
+    
+}
+.let{
+    background: rgb(102, 118, 148);
+}
+.back{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.robo{
+    background: honeydew;
+}
+.robo_img{
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    position: fixed;
+}
+.join{
+    background-color: aliceblue;
+    border: 2px solid;
+    padding-bottom: 10px;
+    padding-left: 10px; 
+    padding-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right:200px ;
+    padding: 34px 5px;
+    margin: 30px 280px;
+    border-radius: 23px;
+    width: 933px;
+    text-align: left;
+}
+.gallery{
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: wavy;
+    
+}
